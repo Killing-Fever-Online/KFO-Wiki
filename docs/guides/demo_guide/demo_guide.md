@@ -1,3 +1,5 @@
+# PLEASE NOTE: There is now more up-to-date documentation with expanded features and scripting capabilities available at [KFO-Server demo_scripting page](https://github.com/Crystalwarrior/KFO-Server/blob/master/docs/demo_scripting.md)!
+
 # Server Demo Guide and Snippets
 
 Create new evidence:  
