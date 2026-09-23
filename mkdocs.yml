@@ -1,8 +1,8 @@
 site_name: KFO Wiki
-repo_url: https://github.com/Crystalwarrior/KFO-Wiki
-repo_name: Crystalwarrior/KFO-Wiki
-edit_uri: https://prose.io/#Crystalwarrior/KFO-Wiki/edit/main/docs/
-site_url: https://crystalwarrior.github.io/KFO-Wiki
+repo_url: https://github.com/Killing-Fever-Online/KFO-Wiki
+repo_name: Killing-Fever-Online/KFO-Wiki
+edit_uri: https://prose.io/#Killing-Fever-Online/KFO-Wiki/edit/main/docs/
+site_url: https://www.killingfeveronline.com/
 theme:
   name: material
   # This thing will complain about the .ico format but the logo is valid anyway. Can just swap this out later.
