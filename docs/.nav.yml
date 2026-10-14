@@ -3,6 +3,8 @@ sort:
   sections: mixed
 
 nav:
-  - About:
-    - Welcome to KFO: index.md
-  - "*"
+- About:
+  - Welcome to KFO: index.md
+- Blog:
+  - Welcome to the KFO Blog: blog/index.md
+- "*"
