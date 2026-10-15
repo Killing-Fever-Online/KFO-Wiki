@@ -16,16 +16,23 @@ theme:
     primary: black
     accent: red
   features:
-    - navigation.tabs
-    - navigation.footer
-    - toc.integrate
-    - content.code.annotate
-    - content.action.edit
-    - content.action.view
-    - content.action.new
+  - navigation.tabs
+  - navigation.footer
+  - toc.integrate
+  - content.code.annotate
+  - content.action.edit
+  - content.action.view
+  - content.action.new
 plugins:
-  - search
-  - social
-  - awesome-nav
+- search
+- social
+- awesome-nav
+- blog:
+    blog_dir: blog
+    post_dir: "{blog}/posts"
+    categories: true
+    archive: true
+    authors: true
+
 # extra_css:
 #   - style.css

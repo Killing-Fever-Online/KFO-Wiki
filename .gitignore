@@ -1,4 +1,5 @@
 site/
 .cache/
 .vscode/
+.venv/
 test.bat
